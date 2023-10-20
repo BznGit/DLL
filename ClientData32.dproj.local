@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.273,D:\РАБОТА\GETSPM 1.0\GETDLL32\ClientData32.dproj=D:\РАБОТА\GETSPM 1.0\GETDLL32\ClientData32_004.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.826,C:\Users\Бивчик\Desktop\DLL64\ClientData64.dproj=C:\Users\Бивчик\Desktop\DLL64\ClientData64001.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.126,C:\Users\Бивчик\Documents\Embarcadero\Studio\Projects\ClientData64.dproj=C:\Users\Бивчик\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.012,C:\Users\Бивчик\Desktop\WORK\DLL32\ClientData32_002.dproj=C:\Users\Бивчик\Desktop\WORK\DLL32\ClientData32001.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.938,D:\РАБОТА\GETSPM 1.0\GETDLL32\ClientData32_002.dproj=D:\РАБОТА\GETSPM 1.0\GETDLL32\ClientData32_004.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.497,C:\Users\Бивчик\Desktop\DLL64\ClientData64001.dproj=C:\Users\Бивчик\Desktop\DLL32\ClientData32001.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.527,=C:\Users\Бивчик\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.406,=C:\Users\Бивчик\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,C:\Users\Бивчик\Desktop\WORK\DLL3\ClientData64.dproj=C:\Users\Бивчик\Desktop\DLL64\ClientData64.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,C:\Users\Бивчик\Desktop\DLL64\ClientData64001.dproj=C:\Users\Бивчик\Desktop\DLL64\ClientData64001.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,C:\Users\Бивчик\Desktop\WORK\DLL3\ClientData64.dproj=C:\Users\Бивчик\Documents\Embarcadero\Studio\Projects\ClientData64.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
